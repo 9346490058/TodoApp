@@ -1,0 +1,13 @@
+com\qacart\com\testcases\TodoTest.class
+com\qacart\com\pages\NewTodoPage.class
+com\qacart\com\base\BasePage.class
+com\qacart\com\base\BaseTest.class
+com\qacart\com\objects\User.class
+com\qacart\com\testcases\LoginTest.class
+com\qacart\com\objects\Api\RegisterApi.class
+com\qacart\com\pages\TodoPage.class
+com\qacart\com\factory\DriverFactory.class
+com\qacart\com\pages\LoginPage.class
+com\qacart\com\testcases\Dummy.class
+com\qacart\com\utils\UserUtils.class
+com\qacart\com\utils\PropertiesUtils.class
